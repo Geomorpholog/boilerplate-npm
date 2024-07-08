@@ -1,10 +1,10 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"author": "Kirill Basilsky",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
-	"author": "Kirill Basilsky",
-	"main": "server.js",
+		"main": "server.js",
 	"scripts": {
 		"start": "node server.js"
 	},
